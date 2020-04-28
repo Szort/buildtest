@@ -31,3 +31,4 @@
 *.out
 *.app
 build_ue4.bat
+build_ue4.cmd
