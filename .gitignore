@@ -32,3 +32,5 @@
 *.app
 build_ue4.bat
 build_ue4.cmd
+NOR.sln
+NOR_DevelopmentEditor_Win64_compile.bat
